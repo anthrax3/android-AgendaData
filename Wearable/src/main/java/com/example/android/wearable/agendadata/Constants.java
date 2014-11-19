@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.agendadata;
+package com.example.android.wearable.agendadata;
 
 /** Constants used in wearable app. */
 public final class Constants {

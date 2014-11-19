@@ -14,17 +14,17 @@
  * limitations under the License.
  */
 
-package com.example.android.agendadata;
+package com.example.android.wearable.agendadata;
 
-import static com.example.android.agendadata.Constants.TAG;
-import static com.example.android.agendadata.Constants.EXTRA_SILENT;
+import static com.example.android.wearable.agendadata.Constants.TAG;
+import static com.example.android.wearable.agendadata.Constants.EXTRA_SILENT;
 
-import static com.example.android.agendadata.Constants.ALL_DAY;
-import static com.example.android.agendadata.Constants.BEGIN;
-import static com.example.android.agendadata.Constants.DESCRIPTION;
-import static com.example.android.agendadata.Constants.END;
-import static com.example.android.agendadata.Constants.PROFILE_PIC;
-import static com.example.android.agendadata.Constants.TITLE;
+import static com.example.android.wearable.agendadata.Constants.ALL_DAY;
+import static com.example.android.wearable.agendadata.Constants.BEGIN;
+import static com.example.android.wearable.agendadata.Constants.DESCRIPTION;
+import static com.example.android.wearable.agendadata.Constants.END;
+import static com.example.android.wearable.agendadata.Constants.PROFILE_PIC;
+import static com.example.android.wearable.agendadata.Constants.TITLE;
 
 import android.app.Notification;
 import android.app.NotificationManager;

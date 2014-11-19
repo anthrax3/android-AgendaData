@@ -14,21 +14,21 @@
  * limitations under the License.
  */
 
-package com.example.android.agendadata;
+package com.example.android.wearable.agendadata;
 
 
-import static com.example.android.agendadata.Constants.TAG;
-import static com.example.android.agendadata.Constants.CONNECTION_TIME_OUT_MS;
-import static com.example.android.agendadata.Constants.CAL_DATA_ITEM_PATH_PREFIX;
-import static com.example.android.agendadata.Constants.ALL_DAY;
-import static com.example.android.agendadata.Constants.BEGIN;
-import static com.example.android.agendadata.Constants.DATA_ITEM_URI;
-import static com.example.android.agendadata.Constants.DESCRIPTION;
-import static com.example.android.agendadata.Constants.END;
-import static com.example.android.agendadata.Constants.EVENT_ID;
-import static com.example.android.agendadata.Constants.ID;
-import static com.example.android.agendadata.Constants.PROFILE_PIC;
-import static com.example.android.agendadata.Constants.TITLE;
+import static com.example.android.wearable.agendadata.Constants.TAG;
+import static com.example.android.wearable.agendadata.Constants.CONNECTION_TIME_OUT_MS;
+import static com.example.android.wearable.agendadata.Constants.CAL_DATA_ITEM_PATH_PREFIX;
+import static com.example.android.wearable.agendadata.Constants.ALL_DAY;
+import static com.example.android.wearable.agendadata.Constants.BEGIN;
+import static com.example.android.wearable.agendadata.Constants.DATA_ITEM_URI;
+import static com.example.android.wearable.agendadata.Constants.DESCRIPTION;
+import static com.example.android.wearable.agendadata.Constants.END;
+import static com.example.android.wearable.agendadata.Constants.EVENT_ID;
+import static com.example.android.wearable.agendadata.Constants.ID;
+import static com.example.android.wearable.agendadata.Constants.PROFILE_PIC;
+import static com.example.android.wearable.agendadata.Constants.TITLE;
 
 import android.app.IntentService;
 import android.content.ContentResolver;

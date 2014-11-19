@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.example.android.agendadata;
+package com.example.android.wearable.agendadata;
 
-import static com.example.android.agendadata.Constants.TAG;
-import static com.example.android.agendadata.Constants.EXTRA_SILENT;
+import static com.example.android.wearable.agendadata.Constants.TAG;
+import static com.example.android.wearable.agendadata.Constants.EXTRA_SILENT;
 
 import android.app.IntentService;
 import android.content.Intent;
